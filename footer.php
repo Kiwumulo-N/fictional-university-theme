@@ -1,0 +1,1 @@
+<p>This is our wordpress footer </p>
